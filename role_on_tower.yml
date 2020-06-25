@@ -1,0 +1,5 @@
+---
+- name: Using Dev-Sec Hardening role on Tower
+  hosts: all
+  roles:
+    - { roles: dev-sec.os-hardening }
