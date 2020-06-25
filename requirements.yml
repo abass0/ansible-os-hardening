@@ -1,4 +1,0 @@
----
-roles:
-  - name: dev-sec.os-hardening
-    version: 6.0.3
